@@ -1,0 +1,1 @@
+alert("Welcome , this is for link check js properly work or not ... thank you")
